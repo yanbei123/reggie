@@ -56,7 +56,6 @@ public class CommonController {
 
         try {
             file.transferTo(new File(basePath+"\\"+fileName));
-            //E:\reggie\img
         } catch (IOException e) {
             e.printStackTrace();
         }

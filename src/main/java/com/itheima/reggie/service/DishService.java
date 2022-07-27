@@ -1,8 +1,13 @@
 package com.itheima.reggie.service;
 
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.itheima.reggie.common.R;
 import com.itheima.reggie.dto.DishDto;
 import com.itheima.reggie.entity.Dish;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
@@ -14,6 +19,13 @@ import java.util.List;
  * @Description:
  */
 public interface DishService extends IService<Dish> {
+
+    //分页菜品信息
+    public R<Page<DishDto>> pageDish(int page, int pageSize, String name);
+
+    //根据菜品分类id进行查询
+    public R<List<DishDto>> listDish(Dish dish);
+
     //新增菜品，同事插入菜品对应的口味数据，需要操作表：dish、dish_flavor
     public void saveWithFlavor(DishDto dishDto);
 
@@ -31,4 +43,13 @@ public interface DishService extends IService<Dish> {
 
     //根据ids批量或单个修改菜品状态
     public void updateMultiply(Integer status,List<Long> ids);
+
+    //修改菜品
+    public R<String> updateDishDto(DishDto dishDto);
+
+    //根据id修改状态信息,可批量
+    public R<String> updateStatus(Integer status, List<Long> ids);
+
+    //根据id删除菜品
+    public R<String> deleteDish(List<Long> ids);
 }
