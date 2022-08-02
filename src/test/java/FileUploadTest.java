@@ -14,5 +14,6 @@ public class FileUploadTest {
         String suffix = fileName.substring(fileName.lastIndexOf("."));
 
         System.out.println(suffix);
+
     }
 }
