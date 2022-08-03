@@ -1,0 +1,95 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b981a9b0-c7d4-4fb5-8731-7e760d90cdde\" name=\"Changes\" comment=\"V1.0 reggie\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/RedisConfig.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/resources/application.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/resources/application.yml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JUnit5 Test Class\" />\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"localRepository\" value=\"D:\\repository\" />\r\n        <option name=\"mavenHome\" value=\"$PROJECT_DIR$/../../../Maven/apache-maven-3.8.6\" />\r\n        <option name=\"userSettingsFile\" value=\"D:\\Maven\\apache-maven-3.8.6\\conf\\settings.xml\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"MavenRunner\">\r\n    <option name=\"jreName\" value=\"1.8\" />\r\n    <option name=\"vmOptions\" value=\"-DarchetypeCatalog=internal\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ay4UbIPO7GJPlQJlN3gCpbw5sJ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RequestMappingsPanelOrder0\": \"0\",\r\n    \"RequestMappingsPanelOrder1\": \"1\",\r\n    \"RequestMappingsPanelWidth0\": \"75\",\r\n    \"RequestMappingsPanelWidth1\": \"75\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"TODO_SCOPE\": \"All Places\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"D:/temp/code/reggie_take_out/src/main/java/com/itheima/reggie/config\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"editing.templates\",\r\n    \"spring.configuration.checksum\": \"31ee954601a2ac7573b0782bc2eec0b0\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"GitStage.ChangesTree.GroupingKeys\": [\r\n      \"directory\",\r\n      \"module\",\r\n      \"repository\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"ReactorSettings\">\r\n    <option name=\"notificationShown\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\temp\\code\\reggie_take_out\\src\\main\\java\\com\\itheima\\reggie\\config\" />\r\n      <recent name=\"D:\\temp\\code\\reggie_take_out\\src\\main\\java\\com\\itheima\\reggie\\dto\" />\r\n      <recent name=\"D:\\IdeaProjects\\Project\\reggie_take_out\\src\\main\\java\\com\\itheima\\reggie\\entity\" />\r\n      <recent name=\"D:\\IdeaProjects\\Project\\reggie_take_out\\src\\main\\resources\" />\r\n      <recent name=\"D:\\IdeaProjects\\Project\\reggie_take_out\\src\\main\\resources\\front\\api\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.Recents.Supers\">\r\n      <recent name=\"\" />\r\n    </key>\r\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\r\n      <recent name=\"com.itheima.reggie.utils\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.RecentsKey\">\r\n      <recent name=\"com.itheima.reggie.service.impl\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"ReggieApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"FRAME_DEACTIVATION_UPDATE_POLICY\" value=\"UpdateClassesAndResources\" />\r\n      <module name=\"reggie_take_out\" />\r\n      <option name=\"SHORTEN_COMMAND_LINE\" value=\"NONE\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.itheima.reggie.ReggieApplication\" />\r\n      <option name=\"UPDATE_ACTION_UPDATE_POLICY\" value=\"UpdateClassesAndResources\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.itheima.reggie.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Spring Boot.ReggieApplication\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b981a9b0-c7d4-4fb5-8731-7e760d90cdde\" name=\"Changes\" comment=\"\" />\r\n      <created>1655968507507</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655968507507</updated>\r\n      <workItem from=\"1655968509068\" duration=\"6418000\" />\r\n      <workItem from=\"1655984189914\" duration=\"4515000\" />\r\n      <workItem from=\"1656040213323\" duration=\"4310000\" />\r\n      <workItem from=\"1656074502360\" duration=\"1178000\" />\r\n      <workItem from=\"1656075706544\" duration=\"112000\" />\r\n      <workItem from=\"1656127103435\" duration=\"10776000\" />\r\n      <workItem from=\"1656295087698\" duration=\"7211000\" />\r\n      <workItem from=\"1656317977888\" duration=\"4732000\" />\r\n      <workItem from=\"1656330764675\" duration=\"3992000\" />\r\n      <workItem from=\"1656404038209\" duration=\"7409000\" />\r\n      <workItem from=\"1656414769790\" duration=\"2442000\" />\r\n      <workItem from=\"1656491721394\" duration=\"2784000\" />\r\n      <workItem from=\"1656663745750\" duration=\"1407000\" />\r\n      <workItem from=\"1656665177839\" duration=\"47000\" />\r\n      <workItem from=\"1656665241381\" duration=\"9520000\" />\r\n      <workItem from=\"1656728088695\" duration=\"595000\" />\r\n      <workItem from=\"1656750206974\" duration=\"1210000\" />\r\n      <workItem from=\"1656813875577\" duration=\"4457000\" />\r\n      <workItem from=\"1656836676704\" duration=\"6025000\" />\r\n      <workItem from=\"1656843889327\" duration=\"945000\" />\r\n      <workItem from=\"1656848390555\" duration=\"560000\" />\r\n      <workItem from=\"1656901066784\" duration=\"7429000\" />\r\n      <workItem from=\"1656920788588\" duration=\"1423000\" />\r\n      <workItem from=\"1656923815664\" duration=\"7135000\" />\r\n      <workItem from=\"1657246921180\" duration=\"11892000\" />\r\n      <workItem from=\"1658298342436\" duration=\"41676000\" />\r\n      <workItem from=\"1658538589564\" duration=\"11845000\" />\r\n      <workItem from=\"1658711161099\" duration=\"600000\" />\r\n      <workItem from=\"1658741763350\" duration=\"2373000\" />\r\n      <workItem from=\"1658797975833\" duration=\"671000\" />\r\n      <workItem from=\"1658798662262\" duration=\"2485000\" />\r\n      <workItem from=\"1658803408181\" duration=\"6000000\" />\r\n      <workItem from=\"1658818666177\" duration=\"2455000\" />\r\n      <workItem from=\"1658821152727\" duration=\"4173000\" />\r\n      <workItem from=\"1658883892142\" duration=\"14001000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"V1.0 reggie\">\r\n      <created>1658806139949</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1658806139949</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"V1.0 reggie\">\r\n      <created>1658818220868</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1658818220868</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"V1.0 reggie\">\r\n      <created>1658819135815</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1658819135815</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"V1.0 reggie\">\r\n      <created>1658820248285</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1658820248285</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"V1.0 reggie\">\r\n      <created>1658820464978</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1658820464978</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"V1.0 reggie\">\r\n      <created>1658820993755</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1658820993755</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"V1.0 reggie\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"V1.0 reggie\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/AddressBookController.java</url>\r\n          <line>147</line>\r\n          <option name=\"timeStamp\" value=\"26\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -65,30 +65,30 @@
+   <component name="ProjectViewState">
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RequestMappingsPanelOrder0": "0",
+-    "RequestMappingsPanelOrder1": "1",
+-    "RequestMappingsPanelWidth0": "75",
+-    "RequestMappingsPanelWidth1": "75",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "TODO_SCOPE": "All Places",
+-    "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "D:/temp/code/reggie_take_out/src/main/java/com/itheima/reggie/config",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "editing.templates",
+-    "spring.configuration.checksum": "31ee954601a2ac7573b0782bc2eec0b0"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
++    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
++    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
++    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/temp/code/reggie_take_out/src/main/java/com/itheima/reggie/config&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
++    &quot;spring.configuration.checksum&quot;: &quot;31ee954601a2ac7573b0782bc2eec0b0&quot;
+   },
+-  "keyToStringList": {
+-    "GitStage.ChangesTree.GroupingKeys": [
+-      "directory",
+-      "module",
+-      "repository"
++  &quot;keyToStringList&quot;: {
++    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
++      &quot;directory&quot;,
++      &quot;module&quot;,
++      &quot;repository&quot;
+     ]
+   }
+-}]]></component>
++}</component>
+   <component name="ReactorSettings">
+     <option name="notificationShown" value="true" />
+   </component>
+@@ -110,7 +110,17 @@
+       <recent name="com.itheima.reggie.service.impl" />
+     </key>
+   </component>
+-  <component name="RunManager">
++  <component name="RunManager" selected="JUnit.FileUploadTest.test01">
++    <configuration name="FileUploadTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="reggie_take_out" />
++      <option name="PACKAGE_NAME" value="" />
++      <option name="MAIN_CLASS_NAME" value="FileUploadTest" />
++      <option name="METHOD_NAME" value="test01" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+       <module name="reggie_take_out" />
+@@ -129,6 +139,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="JUnit.FileUploadTest.test01" />
+         <item itemvalue="Spring Boot.ReggieApplication" />
+       </list>
+     </recent_temporary>
+@@ -176,6 +187,7 @@
+       <workItem from="1658818666177" duration="2455000" />
+       <workItem from="1658821152727" duration="4173000" />
+       <workItem from="1658883892142" duration="14001000" />
++      <workItem from="1658989015828" duration="6495000" />
+     </task>
+     <task id="LOCAL-00001" summary="V1.0 reggie">
+       <created>1658806139949</created>
